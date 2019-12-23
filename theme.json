@@ -1,0 +1,23 @@
+{
+    "name": "Elegance Violet",
+    "description": "NetCommons3 Themed Elegance Violet",
+    "version": "3.0.0",
+    "homepage" : "https://github.com/NetCommons3/NetCommons3",
+    "authors": [
+        {
+            "name": "NetCommons Community",
+            "homepage": "http://www.netcommons.org"
+        },
+        {
+            "name": "AllCreator Co., Ltd.",
+            "homepage": "http://allcreator.net"
+        }
+    ],
+    "license": "NetCommons License",
+    "keywords": ["elegance"],
+    "dependencies": {
+        "bootstrap": "~3.1",
+        "jquery": "~2.1",
+        "NetCommons3": "~1.0"
+    }
+}
